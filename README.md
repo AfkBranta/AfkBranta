@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://ibb.co/3YpdvsH"/>
+<img src="https://i.pinimg.com/736x/6c/c9/a2/6cc9a22cc09250524a6511f9957844f9.jpg"/>
 </p>
 
 # Socials
