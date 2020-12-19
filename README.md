@@ -11,5 +11,5 @@ I'm a noob Java, C#, and JavaScript programmer, I make random things like minecr
 
 # My GitHub Stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=AfkBranta&show_icons=true&hide_title=true)](https://github.com/AfkBranta)
-
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=AfkBranta&show_icons=true&hide_title=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AfkBranta&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
