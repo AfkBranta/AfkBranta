@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://ibb.co/1sr6WzJ"/>
+<img src="https://cdn.discordapp.com/attachments/754828830383800370/797208887815438396/hat-in-the-cat.png"/>
 </p>
 I'm a noob Java, C#, and JavaScript programmer, I make random things like minecraft clients (coming soon) and discord bots
 
