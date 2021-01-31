@@ -6,7 +6,9 @@ I'm a noob Java, C#, and JavaScript programmer, I make random things like minecr
 # Socials
 
 ![Discord](https://img.shields.io/discord/764900827981676565?label=Discord&logo=Discord&style=for-the-badge)
+<br/>
 ![Youtube](https://img.shields.io/youtube/views/r48l7fJFAwQ?color=gr&label=Channel&logo=Youtube&logoColor=red&style=for-the-badge)
+<br/>
 ![Github Followers](https://img.shields.io/github/followers/AfkBranta?color=gr&logo=Github&style=for-the-badge)
 
 # My GitHub Stats
