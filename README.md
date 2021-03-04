@@ -5,7 +5,7 @@
 
 - I am currently working on: [Athena](https://athenainc.github.io)
 
-- I’m currently learning **Java, Front and Back End Development**
+- I’m currently learning **Java, Front and Back End Web Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
