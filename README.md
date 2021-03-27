@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afkbranta&label=Profile%20views&color=0e75b6&style=flat" alt="afkbranta" /> </p>
 
-- I am currently working on: [Athena](https://athenainc.github.io)
+- I am currently working on: [Athena](https://athenainc.github.io), and [REDACTED]
 
 - I’m currently learning **Java, Front and Back End Web Development**
 
