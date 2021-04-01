@@ -1,15 +1,14 @@
 # Hello, I'm Branta 
 
----
 
-###I'm a noob developer currently making a block game hack called Athena (google call me)
+### I'm a noob developer currently making a block game hack called Athena (google call me)
 
 ![ERROR 404](https://komarev.com/ghpvc/?username=afkbranta&label=Profile%20views&color=0e75b6&style=flat)
 
 - I am currently working on [Athena](https://www.athenainc.github.io)
 - I am currently learning Java, Front and Back End Web Development
 
-##Connect With Me
+## Connect With Me
 
 <p align="left">
 	<a href="https://dev.to/afkbranta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="afkbranta" height="30" width="40"/></a>
@@ -17,7 +16,7 @@
 	<a href="https://www.youtube.com/c/uc5erfnee-d30lome_a1to4q" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uc5erfnee-d30lome_a1to4q" height="30" width="40" /></a>
 </p>
 
-##Languages and Tools
+## Languages and Tools
 
 <p>
 	<a href="https://www.w3schools.com/cs/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"></a> 
