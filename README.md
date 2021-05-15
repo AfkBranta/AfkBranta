@@ -1,7 +1,7 @@
 # Hello, I'm Branta 
 
 
-### I'm a noob developer currently making a block game hack called Athena (google call me)
+### I'm a noob developer currently making a block game hack called Athena
 
 ![ERROR 404](https://komarev.com/ghpvc/?username=afkbranta&label=Profile%20views&color=0e75b6&style=flat)
 
