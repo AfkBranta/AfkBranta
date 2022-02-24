@@ -5,8 +5,8 @@
 
 ![ERROR 404](https://komarev.com/ghpvc/?username=afkbranta&label=Profile%20views&color=0e75b6&style=flat)
 
-- I am currently working on [Athena](https://www.athenainc.github.io)
-- I am currently learning Java
+- I am currently working on School
+- I am currently learning Math
 
 ## Connect With Me
 
